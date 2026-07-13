@@ -1,2 +1,87 @@
-# expense-tracker
-A Python-based Expense Tracker application built with Tkinter and SQLite to manage income and expenses through a user-friendly interface.
+# 💰 Expense Tracker
+
+A Python-based Expense Tracker application built with Tkinter and SQLite to help users manage their income and expenses through a simple and user-friendly desktop interface.
+
+---
+
+## ✨ Features
+
+- 🔐 Secure User Login and Registration
+- 💵 Add Income and Expense Transactions
+- ✏️ Edit Existing Transactions
+- 🗑️ Delete Transactions
+- 📋 View Transaction History
+- 💾 SQLite Database for Data Storage
+- 🖥️ User-Friendly Tkinter GUI
+
+---
+
+## 🛠️ Technologies Used
+
+### Languages & Frameworks
+- Python
+- Tkinter
+- SQLite
+- SQL
+
+### Tools
+- Visual Studio Code
+- GitHub
+  
+---
+
+## 📂 Project Structure
+
+```
+expense-tracker/
+│
+├── screenshots/
+├── main.py
+├── login.py
+├── register.py
+├── database.py
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
+
+---
+
+## 📸 Screenshots
+
+### Login Page
+[📷 View Login Screenshot](expense-tracker/screenshots/2.login.png)
+
+### Registration Page
+[📷 View Registration Screenshot](expense-tracker/screenshots/1.register.png)
+
+### Dashboard
+[📷 View Dashboard Screenshot](expense-tracker/screenshots/3.dashboard.png)
+
+### Add Transaction
+[📷 View Add Transaction Screenshot](expense-tracker/screenshots/4.addTransaction.png)
+
+### Transaction History
+[📷 View Transaction History Screenshot](expense-tracker/screenshots/5.transactionHistory.png)
+
+---
+
+## 🔮 Future Enhancements
+
+- Expense Reports
+- Charts and Graphs
+- Export to Excel/PDF
+- Monthly Budget Tracking
+- Dark Mode
+
+---
+
+## 👩‍💻 Author
+
+**Kommula Durga Aravind**
+
+GitHub: [kommuladurgaaravind](https://github.com/kommuladurgaaravind)
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
